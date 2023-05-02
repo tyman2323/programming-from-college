@@ -8,7 +8,7 @@ public class ISBNClient{
 public static void main(String[] args){
 Scanner input = new Scanner(System.in);
 ISBN n1 = new ISBN();//Creates the object
-System.out.println("What is the digits? ");
+System.out.println("What are the digits? ");
 n1.digits = input.nextLine();//recieves the digits
 System.out.println("What is the symbol? ");
 n1.checkSymbol = input.nextLine();//recieves the symbol
