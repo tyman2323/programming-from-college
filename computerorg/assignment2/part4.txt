@@ -1,0 +1,16 @@
+-5 in hex is FB
+125 in hex is 7D
+The operation that needs to be done is subtractiion, but -x -y = -x + -y; by that logic we can convert
+125 to -125 and yield the same result.
+-125 in hex is 83
+Convering then respetively to binary will be 11111011 and 10000011
+Doing twos compliment will be
+
+11111011
+10000011
+--------------
+01111110
+
+ Two negatives numbers were added and gave a 
+negative result but a positive number was produced, henceforth the overflow flag because of the size of the 
+register. The carry flag is not turned on because it is not within the range to be turned on.

@@ -1,0 +1,1 @@
+int problem6words(FILE *fpointer);

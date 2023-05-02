@@ -1,0 +1,5 @@
+PART A:   The eax content will be 00A0000
+
+PART B:   The eax content will be 0000001C
+
+PART C:   a.2D  b.48  c.69  d.A3 

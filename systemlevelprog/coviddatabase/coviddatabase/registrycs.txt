@@ -1,0 +1,3 @@
+code           fname          lname          dob          dose#      date        type           zip
+AT20M041       AYMAN         TAWAALAI        20020905        2        IDK        MODERNA        30041
+BF46M040       BILLY        FRIDE        19760403        1        IDK        MODERNA        30040
