@@ -1,0 +1,15 @@
+C:\Users\Ayman\Documents\plc\evenbettersyntaxanalyzer\evenbettersyntaxanalyzer\obj\Debug\net6.0\evenbettersyntaxanalyzer.csproj.AssemblyReference.cache
+C:\Users\Ayman\Documents\plc\evenbettersyntaxanalyzer\evenbettersyntaxanalyzer\obj\Debug\net6.0\evenbettersyntaxanalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayman\Documents\plc\evenbettersyntaxanalyzer\evenbettersyntaxanalyzer\obj\Debug\net6.0\evenbettersyntaxanalyzer.AssemblyInfoInputs.cache
+C:\Users\Ayman\Documents\plc\evenbettersyntaxanalyzer\evenbettersyntaxanalyzer\obj\Debug\net6.0\evenbettersyntaxanalyzer.AssemblyInfo.cs
+C:\Users\Ayman\Documents\plc\evenbettersyntaxanalyzer\evenbettersyntaxanalyzer\obj\Debug\net6.0\evenbettersyntaxanalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Ayman\Documents\plc\evenbettersyntaxanalyzer\evenbettersyntaxanalyzer\bin\Debug\net6.0\evenbettersyntaxanalyzer.exe
+C:\Users\Ayman\Documents\plc\evenbettersyntaxanalyzer\evenbettersyntaxanalyzer\bin\Debug\net6.0\evenbettersyntaxanalyzer.deps.json
+C:\Users\Ayman\Documents\plc\evenbettersyntaxanalyzer\evenbettersyntaxanalyzer\bin\Debug\net6.0\evenbettersyntaxanalyzer.runtimeconfig.json
+C:\Users\Ayman\Documents\plc\evenbettersyntaxanalyzer\evenbettersyntaxanalyzer\bin\Debug\net6.0\evenbettersyntaxanalyzer.dll
+C:\Users\Ayman\Documents\plc\evenbettersyntaxanalyzer\evenbettersyntaxanalyzer\bin\Debug\net6.0\evenbettersyntaxanalyzer.pdb
+C:\Users\Ayman\Documents\plc\evenbettersyntaxanalyzer\evenbettersyntaxanalyzer\obj\Debug\net6.0\evenbettersyntaxanalyzer.dll
+C:\Users\Ayman\Documents\plc\evenbettersyntaxanalyzer\evenbettersyntaxanalyzer\obj\Debug\net6.0\refint\evenbettersyntaxanalyzer.dll
+C:\Users\Ayman\Documents\plc\evenbettersyntaxanalyzer\evenbettersyntaxanalyzer\obj\Debug\net6.0\evenbettersyntaxanalyzer.pdb
+C:\Users\Ayman\Documents\plc\evenbettersyntaxanalyzer\evenbettersyntaxanalyzer\obj\Debug\net6.0\evenbettersyntaxanalyzer.genruntimeconfig.cache
+C:\Users\Ayman\Documents\plc\evenbettersyntaxanalyzer\evenbettersyntaxanalyzer\obj\Debug\net6.0\ref\evenbettersyntaxanalyzer.dll
