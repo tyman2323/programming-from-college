@@ -1,0 +1,18 @@
+Louis Henry's experience with local storage:
+
+There are a lot of databases out there: sql lite, berkleydb, and more
+SQL lite is an open source db that lets you store data to a textfile in a device. There is built is sql lite implementation in android itself.
+
+Key concepts with SQL lite
+
+1. Local storage means that it is available when the app is offline
+
+2. Tables and records
+
+3. The four basic operations are insert, update, delete, and search.
+
+4. Filter, Specific, Sort, and Join. When you create a datebase you can create seperate tables, but you have the ability to join differennt tables to make it easier to search.
+
+
+
+Database_helper is what is there to create a databse backend. This file should be in the library of class activity 7

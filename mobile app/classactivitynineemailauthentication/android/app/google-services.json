@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46931575529",
+    "project_id": "fir-emailauth-40057",
+    "storage_bucket": "fir-emailauth-40057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46931575529:android:18db97325d24a1d072a678",
+        "android_client_info": {
+          "package_name": "com.example.classactivitynineemailauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS2sqYuu7mX_6MZ5Sn1g4KzGGFAQ4SIcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

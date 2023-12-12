@@ -1,0 +1,5 @@
+You have to create a custom server for your app which is sucky as a front end dev. You'll need to manage the database and and think of how to do protocols and such. Thankfully firebase exists.
+
+Firebase was created by google for mobile and web dev. Allows you to make an application without server side programming and supports web, IOS, MacOS, and android apps. 
+
+Realtime database that is flexible and uses the JSON data structure. 
